@@ -19,7 +19,7 @@ Ce projet est un générateur de mots de passe aléatoires développé en langag
 
 > Installation et exécution
 1. Cloner le dépôt
-git clone https://github.com/ton-utilisateur/PasswordGenerator.git
+git clone git@github.com:saida199/PasswordGenerator.git
 cd PasswordGenerator
 
 
